@@ -37,6 +37,100 @@ Each node contains:
 - Insertion and Deletion
 - Searching and Traversal
 
+#Sample output
+
+  === Event Seat Booking System ===
+1. Book Seat
+2. Cancel Booking
+3. Search Booking
+4. Display Bookings
+5. Exit
+Enter your choice: 1
+
+Enter Seat Number: 101
+Enter Customer Name: Rahul Patil
+Seat booked successfully!
+
+=== Event Seat Booking System ===
+1. Book Seat
+2. Cancel Booking
+3. Search Booking
+4. Display Bookings
+5. Exit
+Enter your choice: 1
+
+Enter Seat Number: 102
+Enter Customer Name: Amit Sharma
+Seat booked successfully!
+
+=== Event Seat Booking System ===
+1. Book Seat
+2. Cancel Booking
+3. Search Booking
+4. Display Bookings
+5. Exit
+Enter your choice: 1
+
+Enter Seat Number: 101
+Seat already booked!
+
+=== Event Seat Booking System ===
+1. Book Seat
+2. Cancel Booking
+3. Search Booking
+4. Display Bookings
+5. Exit
+Enter your choice: 4
+
+--- Booked Seats ---
+Seat Number: 102 | Customer: Amit Sharma
+Seat Number: 101 | Customer: Rahul Patil
+
+=== Event Seat Booking System ===
+1. Book Seat
+2. Cancel Booking
+3. Search Booking
+4. Display Bookings
+5. Exit
+Enter your choice: 3
+
+Enter Seat Number to Search: 101
+Booking Found!
+Seat Number: 101
+Customer Name: Rahul Patil
+
+=== Event Seat Booking System ===
+1. Book Seat
+2. Cancel Booking
+3. Search Booking
+4. Display Bookings
+5. Exit
+Enter your choice: 2
+
+Enter Seat Number to Cancel: 102
+Booking cancelled successfully!
+
+=== Event Seat Booking System ===
+1. Book Seat
+2. Cancel Booking
+3. Search Booking
+4. Display Bookings
+5. Exit
+Enter your choice: 4
+
+--- Booked Seats ---
+Seat Number: 101 | Customer: Rahul Patil
+
+=== Event Seat Booking System ===
+1. Book Seat
+2. Cancel Booking
+3. Search Booking
+4. Display Bookings
+5. Exit
+Enter your choice: 5
+
+Exiting program...
+
 ## Programming Language
 C++
 
