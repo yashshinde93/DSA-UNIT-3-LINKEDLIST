@@ -40,8 +40,5 @@ Each node contains:
 ## Programming Language
 C++
 
-## Source File
-Event_Seat_Booking.cpp
-
 ## Conclusion
 This project demonstrates how a Singly Linked List can be used to manage event seat bookings dynamically. It supports booking, cancellation, searching, and displaying booking records.
