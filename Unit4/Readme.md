@@ -72,10 +72,3 @@ Conclusion
 
 This project demonstrates the construction of Binary Search Trees using different insertion orders. It shows that inserting sorted IDs can produce an unbalanced BST, while shuffled insertion may produce a more balanced tree. The actual height depends on the insertion order.
 
-Programming Language
-
-C++
-
-Author
-
-DSA Student Project
